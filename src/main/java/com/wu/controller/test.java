@@ -8,5 +8,6 @@ public class test {
     public static void main(String[] args) throws SQLException {
         System.out.println("hello.txt");
         System.out.println("hello234");
+        System.out.println("ctmd");
     }
 }
