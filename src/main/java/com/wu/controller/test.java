@@ -11,5 +11,6 @@ public class test {
         System.out.println("ctmd");
         System.out.println("dsfsdf");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
